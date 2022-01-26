@@ -5,7 +5,8 @@
 
 ### 관심있는건...
 - [OpenStack](https://www.openstack.org/) 전반에 대해 공부하고 있어요.
-  - Education Cloud Platform 인 Yoda를 개발중이에요.
+  - 전북대학교 컴퓨터공학과에서 사용 중인 [JCloud](http://jcloud.jbnu.ac.kr)를 구축하고 관리해요.
+  - OpenStack Nova의 퍼포먼스 향상에 대해 공부하고 있어요.
 - AWS, Azure, Hiroku 등의 Cloud Platform에도 관심있어요.
 - VMWare, XenServer등의 Virtualization Platform 에도 관심있어요.
 
