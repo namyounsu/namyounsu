@@ -18,4 +18,4 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nys6635@gmail.com)](mailto:nys6635@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/younsu-nam)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@namyounsu)](https://linkedin.com/in/younsu-nam) 
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@namyounsu)](https://velog.io/@namyounsu) 
