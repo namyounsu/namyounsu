@@ -1,4 +1,4 @@
-[English](https://github.com/namyounsu) | [한국어](https://github.com/namyounsu/namyounsu/blob/master/commit/README_ko.md)
+[English](https://github.com/namyounsu) | [한국어](https://github.com/namyounsu/namyounsu/blob/master/README_ko.md)
 
 ## Hello! This is YounSu Nam(남윤수).
 
@@ -14,6 +14,7 @@
   - I'm studying the performance improvement of OpenStack Nova.
 - I'm also interested in cloud platforms such as AWS, Azure, and Hiroku.
 - I'm also interested in virtualization platforms such as VMWare and XenServer.
+
 ### Finally, my information is as below
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nys6635@gmail.com)](mailto:nys6635@gmail.com)

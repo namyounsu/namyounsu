@@ -1,4 +1,4 @@
-[English](https://github.com/namyounsu) | [한국어](https://github.com/namyounsu/namyounsu/blob/master/commit/README_ko.md)
+[English](https://github.com/namyounsu) | [한국어](https://github.com/namyounsu/namyounsu/blob/master/README_ko.md)
 
 ## 안녕하세요! 남윤수(YounSu Nam) 입니다.
 
